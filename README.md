@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://telegra.ph/file/996885053b5660d4d3d93.jpg" alt="JATT-Filter-Bot Logo">
 
+</p>
+<h1 align="center">
+  JATT FILTER BOT
+</h1>
 
 
 Main Feature

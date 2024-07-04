@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://telegra.ph/file/996885053b5660d4d3d93.jpg" alt="JATT-Filter-Bot Logo">
+
+
+
 Main Feature
  Premium Plan Feature
  

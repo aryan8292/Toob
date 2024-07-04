@@ -6,44 +6,26 @@
   JATT FILTER BOT
 </h1>
 
-
-Main Feature
- Premium Plan Feature
- 
- Refer To Get Premium
- 
- Ai Spell Check
- 
- Custom Force Subscribe
- 
- Rename Feature & On / Off
- 
- Premium And Refer On / Off
- 
- Stream Feature On / Off
- 
- Url Shortner On / Off Feature
- 
- Pm Search On / Off
- 
- Request To Join Force Subscribe With Auto File Send
- Custom Stream
- 
- Stream Feature With Many Player Support
- 
- Language & Season & Quality & Episode & Year Choose Option
- 
- Save Restricted Content & On / Off
- 
- Auto Approve & On / Off
- 
- Custom Url Shortner Support
- 
- Token Verification
- 
- Send All Button
- 
- Custom Tutorial Button
- 
- Bot Pm File Auto Delete
-
+## Main Feature 
+<b>
+  
+- [x] Premium Plan Feature 
+- [x] Refer To Get Premium
+- [x] Ai Spell Check 
+- [x] Custom Force Subscribe
+- [x] Rename Feature & On / Off
+- [x] Premium And Refer On / Off 
+- [x] Stream Feature On / Off 
+- [x] Url Shortner On / Off Feature 
+- [x] Pm Search On / Off
+- [x] Request To Join Force Subscribe With Auto File Send 
+- [x] Custom Stream
+- [x] Stream Feature With Many Player Support 
+- [x] Language & Season & Quality & Episode & Year Choose Option
+- [x] Save Restricted Content & On / Off
+- [x] Auto Approve & On / Off
+- [x] Custom Url Shortner Support
+- [x] Token Verification 
+- [x] Send All Button 
+- [x] Custom Tutorial Button
+- [x] Bot Pm File Auto Delete 

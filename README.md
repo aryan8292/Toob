@@ -28,4 +28,6 @@
 - [x] Token Verification 
 - [x] Send All Button 
 - [x] Custom Tutorial Button
-- [x] Bot Pm File Auto Delete 
+- [x] Bot Pm File Auto Delete
+
+Join My <a href='https://t.me/movies_hub490'>MOVIES GROUP

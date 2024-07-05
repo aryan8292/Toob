@@ -1,95 +1,195 @@
 <p align="center">
-  <img src="https://telegra.ph/file/996885053b5660d4d3d93.jpg" alt="JATT-Filter-Bot Logo">
-
+  <img src="https://telegra.ph/file/6fa70325813885809a64a.jpg" alt="The Movie Provider Bot Logo">
 </p>
 <h1 align="center">
-  JATT FILTER BOT
+  <a href="https://telegram.me/TheMovieProviderBot">THE MOVIE PROVIDER BOT</a>
 </h1>
 
-## Main Feature 
-<b>
-  
-- [x] Premium Plan Feature 
-- [x] Refer To Get Premium
-- [x] Ai Spell Check 
-- [x] Custom Force Subscribe
-- [x] Rename Feature & On / Off
-- [x] Premium And Refer On / Off 
-- [x] Stream Feature On / Off 
-- [x] Url Shortner On / Off Feature 
-- [x] Pm Search On / Off
-- [x] Request To Join Force Subscribe With Auto File Send 
-- [x] Custom Stream
-- [x] Stream Feature With Many Player Support 
-- [x] Language & Season & Quality & Episode & Year Choose Option
-- [x] Save Restricted Content & On / Off
-- [x] Auto Approve & On / Off
-- [x] Custom Url Shortner Support
-- [x] Token Verification 
-- [x] Send All Button 
-- [x] Custom Tutorial Button
-- [x] Bot Pm File Auto Delete
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+THE-MOVIE-PROVIDER-BOT;A+SIMPLE+AND+POWERFUL+BOT!;A+BOT+WITH+CUSTOM+URL+SHORTNER;AND+CUSTOM+TUTORIAL!;ALSO+HAVE+STREAM+ONLINE;AND+FAST+DOWNLOAD+FEATURE!;AND+MANY+MORE+FEATURES!)
+</p>
 
-Join My <a href='https://t.me/movies_hub490'>MOVIES GROUP
-## Commands
+## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
+
+- [x] 𝑺𝒉𝒐𝒓𝒕𝒏𝒆𝒓 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝒊𝒏 𝑺𝒕𝒓𝒆𝒂𝒎 𝒂𝒏𝒅 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝒇𝒆𝒂𝒕𝒖𝒓𝒆
+- [x] 𝑮𝒐𝒐𝒅 𝑴𝒐𝒓𝒏𝒊𝒏𝒈, 𝑨𝒇𝒕𝒆𝒓𝒏𝒐𝒐𝒏, 𝑬𝒗𝒆𝒏𝒊𝒏𝒈, 𝑵𝒊𝒈𝒉𝒕 𝒘𝒊𝒔𝒉𝒆𝒔 
+- [x] 𝑹𝒆𝒒𝒖𝒆𝒔𝒕 𝒕𝒐 𝒋𝒐𝒊𝒏 𝒊𝒏 𝑭𝒔𝒖𝒃
+- [x] 𝑩𝒆𝒔𝒕 𝑺𝒕𝒓𝒆𝒂𝒎𝒊𝒏𝒈 𝑾𝒆𝒃𝒔𝒊𝒕𝒆
+- [x] 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝒎𝒆𝒎𝒃𝒆𝒓𝒔𝒉𝒊𝒑 𝒎𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 
+- [x] 𝐶𝑢𝑠𝑡𝑜𝑚 𝑆ℎ𝑜𝑟𝑡𝑛𝑒𝑟 ( 𝐴𝑙𝑙 𝑊𝑒𝑏𝑠𝑖𝑡𝑒𝑠 )
+- [x] 𝑆𝑡𝑟𝑒𝑎𝑚 𝑜𝑛𝑙𝑖𝑛𝑒 𝑎𝑛𝑑 𝐹𝑎𝑠𝑡 𝐷𝑜𝑤𝑛𝑙𝑜𝑎𝑑
+- [x] 𝐼𝑀𝐷𝐵 𝑇𝑒𝑚𝑝𝑙𝑎𝑡𝑒 𝑆𝑒𝑡
+- [x] 𝐼𝑛𝑑𝑒𝑥𝑒𝑠 𝐹𝑖𝑙𝑒𝑠 𝑎𝑏𝑜𝑣𝑒 2𝐺𝐵
+- [x] 𝑃𝑟𝑒𝐷𝑉𝐷 𝑎𝑛𝑑 𝐶𝑎𝑚𝑅𝑖𝑝 𝐷𝑒𝑙𝑒𝑡𝑒 𝑀𝑜𝑑𝑒
+- [x] 𝑀𝑢𝑙𝑡𝑖𝑝𝑙𝑒 𝐹𝑖𝑙𝑒 𝐷𝑒𝑙𝑒𝑡𝑖𝑜𝑛
+- [x] 𝑆𝑒𝑡𝑡𝑖𝑛𝑔𝑠 𝑀𝑒𝑛𝑢
+- [x] 𝐹𝑜𝑟𝑐𝑒 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑝𝑡𝑖𝑜𝑛
+- [x] 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑀𝑒𝑠𝑠𝑎𝑔𝑒
+- [x] 𝐴𝑢𝑡𝑜𝑚𝑎𝑡𝑖𝑐 𝐹𝑖𝑙𝑒 𝐹𝑖𝑙𝑡𝑒𝑟𝑖𝑛𝑔
+- [x] 𝐷𝑜𝑢𝑏𝑙𝑒 𝐹𝑖𝑙𝑡𝑒𝑟 𝐵𝑢𝑡𝑡𝑜𝑛
+- [x] 𝑆𝑖𝑛𝑔𝑙𝑒 𝐹𝑖𝑙𝑡𝑒𝑟 𝐵𝑢𝑡𝑡𝑜𝑛
+- [x] 𝐵𝑜𝑡 𝑃𝑀 𝐹𝑖𝑙𝑒 𝑆𝑒𝑛𝑑 𝑀𝑜𝑑𝑒
+- [x] 𝐴𝑢𝑡𝑜 𝐹𝑖𝑙𝑒 𝑆𝑒𝑛𝑑
+- [x] 𝐹𝑜𝑟𝑤𝑎𝑟𝑑 𝑅𝑒𝑠𝑡𝑟𝑖𝑐𝑡𝑖𝑜𝑛
+- [x] 𝐹𝑖𝑙𝑒 𝑃𝑟𝑜𝑡𝑒𝑐𝑡
+- [x] 𝑀𝑎𝑛𝑢𝑎𝑙 𝐹𝑖𝑙𝑒 𝐹𝑖𝑙𝑡𝑒𝑟𝑖𝑛𝑔
+- [x] 𝐺𝑙𝑜𝑏𝑎𝑙 𝐹𝑖𝑙𝑒 𝐹𝑖𝑙𝑡𝑒𝑟𝑖𝑛𝑔
+- [x] 𝐼𝑀𝐷𝐵
+- [x] 𝐴𝑑𝑚𝑖𝑛 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
+- [x] 𝑈𝑠𝑒𝑟 𝐵𝑟𝑜𝑎𝑑𝑐𝑎𝑠𝑡
+- [x] 𝐺𝑟𝑜𝑢𝑝 𝐵𝑟𝑜𝑎𝑑𝑐𝑎𝑠𝑡
+- [x] 𝐼𝑛𝑑𝑒𝑥
+- [x] 𝐼𝑀𝐷𝐵 𝑠𝑒𝑎𝑟𝑐ℎ
+- [x] 𝐼𝑛𝑙𝑖𝑛𝑒 𝑆𝑒𝑎𝑟𝑐ℎ
+- [x] 𝑅𝑎𝑛𝑑𝑜𝑚 𝑝𝑖𝑐𝑠
+- [x] 𝑖𝑑𝑠 𝑎𝑛𝑑 𝑈𝑠𝑒𝑟 𝑖𝑛𝑓𝑜 
+- [x] 𝑆𝑡𝑎𝑡𝑠
+- [x] 𝑈𝑠𝑒𝑟𝑠
+- [x] 𝐶ℎ𝑎𝑡𝑠
+- [x] 𝑈𝑠𝑒𝑟 𝐵𝑎𝑛
+- [x] 𝑈𝑠𝑒𝑟 𝑈𝑛𝑏𝑎𝑛
+- [x] 𝐶ℎ𝑎𝑡 𝐿𝑒𝑎𝑣𝑒
+- [x] 𝐶ℎ𝑎𝑡 𝐷𝑖𝑠𝑎𝑏𝑙𝑒
+- [x] 𝑆𝑝𝑒𝑙𝑙𝑖𝑛𝑔 𝐶ℎ𝑒𝑐𝑘 𝐹𝑒𝑎𝑡𝑢𝑟𝑒
+- [x] 𝐹𝑖𝑙𝑒 𝑆𝑡𝑜𝑟𝑒
+- [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
+- [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
+
+<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://t.me/HP_MOVIES_WORLD'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
+
+## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
-• /index - 𝑖𝑛𝑑𝑒𝑥 𝑓𝑖𝑙𝑒 𝑓𝑟𝑜𝑚 𝑦𝑜𝑢𝑟 𝑐ℎ𝑎𝑛𝑛𝑒𝑙
-• /logs - 𝑡𝑜 𝑔𝑒𝑡 𝑡ℎ𝑒 𝑟𝑒𝑐𝑒𝑛𝑡 𝑒𝑟𝑟𝑜𝑟𝑠
-• /stats - 𝑡𝑜 𝑔𝑒𝑡 𝑠𝑡𝑎𝑡𝑢𝑠 𝑜𝑓 𝑓𝑖𝑙𝑒𝑠 𝑖𝑛 𝑑𝑏.
-• /connections - 𝑇𝑜 𝑠𝑒𝑒 𝑎𝑙𝑙 𝑐𝑜𝑛𝑛𝑒𝑐𝑡𝑒𝑑 𝑔𝑟𝑜𝑢𝑝𝑠
-• /settings - 𝑇𝑜 𝑜𝑝𝑒𝑛 𝑠𝑒𝑡𝑡𝑖𝑛𝑔𝑠 𝑚𝑒𝑛𝑢
-• /filter - 𝑎𝑑𝑑 𝑚𝑎𝑛𝑢𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠
-• /filters - 𝑣𝑖𝑒𝑤 𝑓𝑖𝑙𝑡𝑒𝑟𝑠
-• /connect - 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑡𝑜 𝑃𝑀.
-• /disconnect - 𝑑𝑖𝑠𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑓𝑟𝑜𝑚 𝑃𝑀
-• /del - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎 𝑓𝑖𝑙𝑡𝑒𝑟
-• /delall - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎𝑙𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠
-• /deleteall - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎𝑙𝑙 𝑖𝑛𝑑𝑒𝑥𝑒𝑑 𝑓𝑖𝑙𝑒𝑠.
-• /delete - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎 𝑠𝑝𝑒𝑐𝑖𝑓𝑖𝑐 𝑓𝑖𝑙𝑒 𝑓𝑟𝑜𝑚 𝑖𝑛𝑑𝑒𝑥.
-• /info - 𝑔𝑒𝑡 𝑢𝑠𝑒𝑟 𝑖𝑛𝑓𝑜
-• /id - 𝑔𝑒𝑡 𝑡𝑔 𝑖𝑑𝑠.
-• /imdb - 𝑓𝑒𝑡𝑐ℎ 𝑖𝑛𝑓𝑜 𝑓𝑟𝑜𝑚 𝑖𝑚𝑑𝑏.
-• /search - 𝑇𝑜 𝑠𝑒𝑎𝑟𝑐ℎ 𝑓𝑟𝑜𝑚 𝑣𝑎𝑟𝑖𝑜𝑢𝑠 𝑠𝑜𝑢𝑟𝑐𝑒𝑠
-• /start - 𝑇𝑜 𝑠𝑡𝑎𝑟𝑡 𝑡ℎ𝑒 𝑏𝑜𝑡
-• /setskip - 𝑇𝑜 𝑠𝑘𝑖𝑝 𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑚𝑒𝑠𝑠𝑎𝑔𝑒𝑠 𝑤ℎ𝑒𝑛 𝑖𝑛𝑑𝑒𝑥𝑖𝑛𝑔 𝑓𝑖𝑙𝑒𝑠
-• /users - 𝑡𝑜 𝑔𝑒𝑡 𝑙𝑖𝑠𝑡 𝑜𝑓 𝑚𝑦 𝑢𝑠𝑒𝑟𝑠 𝑎𝑛𝑑 𝑖𝑑𝑠.
-• /chats - 𝑡𝑜 𝑔𝑒𝑡 𝑙𝑖𝑠𝑡 𝑜𝑓 𝑡ℎ𝑒 𝑚𝑦 𝑐ℎ𝑎𝑡𝑠 𝑎𝑛𝑑 𝑖𝑑𝑠 
-• /leave  - 𝑡𝑜 𝑙𝑒𝑎𝑣𝑒 𝑓𝑟𝑜𝑚 𝑎 𝑐ℎ𝑎𝑡.
-• /disable  -  𝑑𝑜 𝑑𝑖𝑠𝑎𝑏𝑙𝑒 𝑎 𝑐ℎ𝑎𝑡.
-• /enable - 𝑟𝑒-𝑒𝑛𝑎𝑏𝑙𝑒 𝑐ℎ𝑎𝑡.
-• /ban  - 𝑡𝑜 𝑏𝑎𝑛 𝑎 𝑢𝑠𝑒𝑟.
-• /unban  - 𝑡𝑜 𝑢𝑛𝑏𝑎𝑛 𝑎 𝑢𝑠𝑒𝑟.
-• /channel - 𝑡𝑜 𝑔𝑒𝑡 𝑙𝑖𝑠𝑡 𝑜𝑓 𝑡𝑜𝑡𝑎𝑙 𝑐𝑜𝑛𝑛𝑒𝑐𝑡𝑒𝑑 𝑐ℎ𝑎𝑛𝑛𝑒𝑙𝑠
-• /broadcast - 𝑡𝑜 𝑏𝑟𝑜𝑎𝑑𝑐𝑎𝑠𝑡 𝑎 𝑚𝑒𝑠𝑠𝑎𝑔𝑒 𝑡𝑜 𝑎𝑙𝑙 𝑢𝑠𝑒𝑟𝑠
-• /grp_broadcast - 𝑇𝑜 𝑏𝑟𝑜𝑎𝑑𝑐𝑎𝑠𝑡 𝑎 𝑚𝑒𝑠𝑠𝑎𝑔𝑒 𝑡𝑜 𝑎𝑙𝑙 𝑐𝑜𝑛𝑛𝑒𝑐𝑡𝑒𝑑 𝑔𝑟𝑜𝑢𝑝𝑠.
-• /batch - 𝑡𝑜 𝑐𝑟𝑒𝑎𝑡𝑒 𝑙𝑖𝑛𝑘 𝑓𝑜𝑟 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑒 𝑝𝑜𝑠𝑡𝑠
-• /link - 𝑡𝑜 𝑐𝑟𝑒𝑎𝑡𝑒 𝑙𝑖𝑛𝑘 𝑓𝑜𝑟 𝑜𝑛𝑒 𝑝𝑜𝑠𝑡
-• /status - 𝑌𝑜𝑢𝑟 𝐻𝑒𝑟𝑜𝑘𝑢 𝐴𝑃𝐼 𝐾𝑒𝑦 𝑡𝑜 𝑐ℎ𝑒𝑐𝑘 𝑑𝑦𝑛𝑜, 𝑏𝑜𝑡 𝑢𝑝𝑡𝑖𝑚𝑒 𝑎𝑛𝑑 𝑏𝑜𝑡 𝑤𝑜𝑟𝑘𝑖𝑛𝑔 𝑑𝑎𝑦 𝑝𝑟𝑒𝑑𝑖𝑐𝑡𝑖𝑜𝑛.
-• /set_template - 𝑇𝑜 𝑠𝑒𝑡 𝑎 𝑐𝑢𝑠𝑡𝑜𝑚 𝐼𝑀𝐷𝑏 𝑡𝑒𝑚𝑝𝑙𝑎𝑡𝑒 𝑓𝑜𝑟 𝑖𝑛𝑑𝑖𝑣𝑖𝑑𝑢𝑎𝑙 𝑔𝑟𝑜𝑢𝑝𝑠
-• /gfilter - 𝑇𝑜 𝑎𝑑𝑑 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠.
-• /gfilters - 𝑇𝑜 𝑣𝑖𝑒𝑤 𝑙𝑖𝑠𝑡 𝑜𝑓 𝑎𝑙𝑙 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠.
-• /delg - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎 𝑠𝑝𝑒𝑐𝑖𝑓𝑖𝑐 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟.
-• /delallg - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎𝑙𝑙 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠 𝑓𝑟𝑜𝑚 𝑡ℎ𝑒 𝑏𝑜𝑡'𝑠 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒.
-• /deletefiles - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑃𝑟𝑒𝐷𝑉𝐷 𝑎𝑛𝑑 𝐶𝑎𝑚𝑅𝑖𝑝 𝐹𝑖𝑙𝑒𝑠 𝑓𝑟𝑜𝑚 𝑡ℎ𝑒 𝑏𝑜𝑡'𝑠 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒.
-• /add_premium - 𝐴𝑑𝑑 𝑢𝑠𝑒𝑟 𝑡𝑜 𝑝𝑟𝑒𝑚𝑖𝑢𝑚 𝑙𝑖𝑠𝑡
-• /remove_premium - 𝑅𝑒𝑚𝑜𝑣𝑒 𝑢𝑠𝑒𝑟 𝑓𝑟𝑜𝑚 𝑝𝑟𝑒𝑚𝑖𝑢𝑚 𝑙𝑖𝑠𝑡
-• /plan - 𝐶ℎ𝑒𝑐𝑘 𝑝𝑙𝑎𝑛 𝑑𝑒𝑡𝑎𝑖𝑙𝑠
-• /myplan - 𝐶ℎ𝑒𝑐𝑘 𝑦𝑜𝑢𝑟 𝑝𝑙𝑎𝑛 𝑠𝑡𝑎𝑡𝑠
-• /shortlink - 𝑠𝑒𝑡 𝑦𝑜𝑢𝑟 𝑢𝑟𝑙 𝑠ℎ𝑜𝑟𝑡𝑛𝑒𝑟 𝑖𝑛 𝑦𝑜𝑢𝑟 𝑔𝑟𝑜𝑢𝑝
-• /setshortlinkoff  - 𝑜𝑓𝑓 𝑠ℎ𝑜𝑟𝑡𝑙𝑖𝑛𝑘 𝑖𝑛 𝑦𝑜𝑢𝑟 𝑔𝑟𝑜𝑢𝑝
-• /setshortlinkon - 𝑜𝑛 𝑠ℎ𝑜𝑟𝑡𝑙𝑖𝑛𝑘 𝑖𝑛 𝑦𝑜𝑢𝑟 𝑔𝑟𝑜𝑢𝑝
-• /shortlink_info - 𝑐ℎ𝑒𝑐𝑘 𝑦𝑜𝑢𝑟 𝑔𝑟𝑜𝑢𝑝 𝑎𝑙𝑙 𝑠ℎ𝑜𝑟𝑡𝑙𝑖𝑛𝑘 𝑎𝑛𝑑 𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙 𝑙𝑖𝑛𝑘 𝑑𝑒𝑡𝑎𝑖𝑙𝑠
-• /set_tutorial - 𝑠𝑒𝑡 𝑦𝑜𝑢𝑟 𝑢𝑟𝑙 𝑠ℎ𝑜𝑟𝑡𝑛𝑒𝑟 ℎ𝑜𝑤 𝑡𝑜 𝑜𝑝𝑒𝑛 𝑙𝑖𝑛𝑘 𝑢𝑟𝑙
-• /remove_tutorial - 𝑟𝑒𝑚𝑜𝑣𝑒 𝑦𝑜𝑢𝑟 𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙 𝑢𝑟𝑙
-• /restart  - 𝑟𝑒𝑠𝑡𝑎𝑟𝑡 𝑡ℎ𝑒 𝑏𝑜𝑡 𝑠𝑒𝑟𝑣𝑒𝑟
-• /fsub - 𝑎𝑑𝑑 𝑓𝑜𝑟𝑐𝑒 𝑠𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒 𝑐ℎ𝑎𝑛𝑛𝑒𝑙 𝑖𝑛 𝑔𝑟𝑜𝑢𝑝
-• /nofsub - 𝑟𝑒𝑚𝑜𝑣𝑒 𝑜𝑟 𝑜𝑓𝑓 𝑓𝑜𝑟𝑐𝑒 𝑠𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒 𝑖𝑛 𝑦𝑜𝑢𝑟 𝑔𝑟𝑜𝑢𝑝
-• /rename - 𝑟𝑒𝑛𝑎𝑚𝑒 𝑦𝑜𝑢𝑟 𝑓𝑖𝑙𝑒
-• /set_caption - 𝑎𝑑𝑑 𝑐𝑎𝑝𝑡𝑖𝑜𝑛 𝑓𝑜𝑟 𝑦𝑜𝑢𝑟 𝑟𝑒𝑛𝑎𝑚𝑒𝑑 𝑓𝑖𝑙𝑒
-• /see_caption - 𝑠𝑒𝑒 𝑦𝑜𝑢𝑟 𝑠𝑎𝑣𝑒𝑑 𝑐𝑎𝑝𝑡𝑖𝑜𝑛
-• /del_caption - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑦𝑜𝑢𝑟 𝑠𝑎𝑣𝑒𝑑 𝑐𝑎𝑝𝑡𝑖𝑜𝑛
-• /set_thumb - 𝑎𝑑𝑑 𝑡ℎ𝑢𝑚𝑏𝑛𝑎𝑖𝑙 𝑓𝑜𝑟 𝑦𝑜𝑢𝑟 𝑟𝑒𝑛𝑎𝑚𝑒𝑑 𝑓𝑖𝑙𝑒
-• /view_thumb - 𝑣𝑖𝑒𝑤 𝑦𝑜𝑢𝑟 𝑠𝑎𝑣𝑒𝑑 𝑡ℎ𝑢𝑚𝑏𝑛𝑎𝑖𝑙
-• /del_thumb - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑦𝑜𝑢𝑟 𝑠𝑎𝑣𝑒𝑑 𝑡ℎ𝑢𝑚𝑏𝑛𝑎𝑖𝑙
-• /stream - 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒 𝑠𝑡𝑟𝑒𝑎𝑚 𝑎𝑛𝑑 𝑑𝑜𝑤𝑛𝑙𝑜𝑎𝑑 𝑙𝑖𝑛𝑘 𝑜𝑓 𝑦𝑜𝑢𝑟 𝑓𝑖𝑙𝑒
-• /save - 𝑑𝑜𝑤𝑛𝑙𝑜𝑎𝑑 𝑟𝑒𝑠𝑡𝑟𝑖𝑐𝑡𝑒𝑑 𝑐𝑜𝑛𝑡𝑒𝑛𝑡 𝑓𝑟𝑜𝑚
+start - ꜱᴛᴀʀᴛ ᴍᴇ...
+connect - ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪɴ ᴘᴍ...
+shortlink - ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ꜱʜᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ...
+set_tutorial - ꜱᴇᴛ ʏᴏᴜʀ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴠɪᴅ...
+remove_tutorial - ʀᴇᴍᴏᴠᴇ ʏᴏᴜʀ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴠɪᴅ...
+settings - ᴄʜᴀɴɢᴇ ʙᴏᴛ ꜱᴇᴛᴛɪɴɢꜱ...
+disconnect - ᴅɪꜱᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ...
+connections - ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛᴇᴅ ɢʀᴏᴜᴘꜱ...
+plan - ᴄʜᴇᴄᴋ ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ ᴘʟᴀɴꜱ...
+myplan - ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴄᴜʀʀᴜɴᴛ ᴘʟᴀɴ...
+stats - ᴄʜᴇᴄᴋ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ...
+info - ɢᴇᴛ ᴜꜱᴇʀ ɪɴꜰᴏ...
+id - ɢᴇᴛ ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ...
+shortlink_info - ɢᴇᴛ ʏᴏᴜʀ ᴄᴜʀʀᴇɴᴛ ꜱʜᴏʀᴛʟɪɴᴋ ɪɴꜰᴏ...
+setshorlinkon - ᴏɴ ʏᴏᴜʀ ᴄᴜʀʀᴇɴᴛ ꜱʜᴏʀᴛʟɪɴᴋ ꜰʀᴏᴍ ɢʀᴘ...
+setshortlinkoff - ᴏꜰꜰ ʏᴏᴜʀ ᴄᴜʀʀᴇɴᴛ ꜱʜᴏʀᴛʟɪɴᴋ ꜰʀᴏᴍ ɢʀᴘ...
+link - ᴄʀᴇᴀᴛᴇ ʟɪɴᴋ ꜰᴏʀ ᴏɴᴇ ᴘᴏꜱᴛ...
+batch - ᴄʀᴇᴀᴛᴇ ʟɪɴᴋ ꜰᴏʀ ʙᴜʟᴋ ᴘᴏꜱᴛꜱ...
+deleteall - ᴅᴇʟᴇᴛᴇ ᴀʟʟ ꜰɪʟᴇꜱ ꜰʀᴏᴍ ᴅʙ...
+delete - ᴅᴇʟᴇᴛᴇ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴇ ꜰʀᴏᴍ ᴅʙ...
+deletefiles - ᴅᴇʟᴇᴛᴇ ᴘʀᴇᴅᴠᴅ ᴀɴᴅ ᴄᴀᴍʀɪᴘ ꜰɪʟᴇꜱ...
+broadcast - ʙʀᴏᴀᴅᴄᴀꜱᴛ ᴍᴇꜱꜱᴀɢᴇ ᴛᴏ ᴜꜱᴇʀꜱ...
+grp_broadcast - ʙʀᴏᴀᴅᴄᴀꜱᴛ ᴍᴇꜱꜱᴀɢᴇꜱ ᴛᴏ ɢʀᴏᴜᴘꜱ...
+enable - ᴇɴᴀʙʟᴇ ᴛᴏ ᴊᴏɪɴ ɪɴ ɢʀᴏᴜᴘ...
+disable - ᴅɪꜱᴀʙʟᴇ ᴀɴʏ ɢʀᴏᴜᴘ...
+leave - ʟᴇᴀᴠᴇ ꜰʀᴏᴍ ᴀɴʏ ɢʀᴏᴜᴘ...
+ban - ʙᴀɴ ᴜꜱᴇʀ ᴛᴏ ᴜꜱᴇ ʙᴏᴛ...
+unban - ᴜɴʙᴀɴ ᴜꜱᴇʀ ᴛᴏ ᴜꜱᴇ ʙᴏᴛ...
+add_premium - ᴀᴅᴅ ᴀɴʏ ᴜꜱᴇʀ ᴛᴏ ᴘʀᴇᴍɪᴜᴍ...
+remove_premium - ʀᴇᴍᴏᴠᴇ ᴀɴʏ ᴜꜱᴇʀ ꜰʀᴏᴍ ᴘʀᴇᴍɪᴜᴍ...
+premium_users - ɢᴇᴛ ʟɪꜱᴛ ᴏꜰ ᴘʀᴇᴍɪᴜᴍ ᴜꜱᴇʀꜱ...
+restart - ʀᴇꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ...
+```
+
+## Variables
+
+### Required Variables
+* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
+* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* `CHANNELS`: ID of channel for Auto Indexing. Separate multiple IDs by space. Make sure bot is admin.
+* `ADMINS`: ID of Admin. Separate multiple Admins by space.
+* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com).
+* `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/HarshalPurohitEdits/TheMovieProviderBot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
+</a>
+</p>
+</details>
+
+<details><summary>Deploy To Koyeb</summary>
+<br>
+<b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
+<br>
+<br>
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/HarshalPurohitEdits/TheMovieProviderBot&branch=main&name=TheMovieProviderBot )
+</details>
+
+<details><summary>Deploy To Render</summary>
+<br>
+<b>
+Use these commands:
+<br>
+<br>
+• Build Command: <code>pip3 install -U -r requirements.txt</code>
+<br>
+<br>
+• Start Command: <code>python3 bot.py</code>
+<br>
+<br>
+Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
+<br>
+<br>
+Use these settings when adding a monitor:</b>
+<br>
+<br>
+<img src="https://telegra.ph/file/a79a156e44f43c9833b50.jpg" alt="render template">
+<br>
+<br>
+<b>Click on the below button to deploy directly to render ↓</b>
+<br>
+<br>
+<a href="https://render.com/deploy?repo=https://github.com/HarshalPurohitEdits/TheMovieProviderBot/tree/main">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+</details>
+
+<details><summary>Deploy To VPS</summary>
+<p>
+<pre>
+git clone https://github.com/HarshalPurohitEdits/TheMovieProviderBot
+# Install Packages
+pip3 install -U -r requirements.txt
+Edit info.py with variables as given below then run bot
+python3 bot.py
+</pre>
+</p>
+</details>
+
+<hr>
+
+
+## Thanks to 
+ - Thanks To [HP](https://t.me/DeltedFromEarth) for customising this amazing [Repo](https://github.com/HarshalPurohitEdits/TheMovieProviderBot).
+ - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
+ - Thanks To [EvamariaTG](https://raw.githubusercontent.com/EvamariaTG) for their awesome [EvaMaria Bot](https://raw.githubusercontent.com/EvamariaTG/EvaMaria)
+ - Thanks To [Joelkb](https://github.com/Joelkb) for their awesome repo [DqFileDonor](https://github.com/Joelkb/DQ-the-file-donor)
+
+## Note 🏷️
+ 
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/DeletedFromEarth)
+
+[Note To A So Called Dev](https://telegram.dog/subin_works/203): 
+
+Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo won't make you a Developer.
+Fork the repo and edit as per your needs.
+
+## Disclaimer
+[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
+Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
+Selling The Codes To Other People For Money Is *Strictly Prohibited*.
+
+
+python3 bot.py
+</pre>
+</p>
+</details>
+r an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo won't make you a Developer.
+Fork the repo and edit as per your needs.

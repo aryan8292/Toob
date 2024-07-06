@@ -247,7 +247,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """ 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
-    CAPTION = "⍟ File Name 🔻/a></b>\n\n>{file_caption}</a></b>\n\n<b>⍟  File Size  🔻/a></b>\n\n>{file_size}</a></b>\n"
+    CAPTION = "**⍟ File Name 🔻**</b>\n\n>{file_caption}</a></b>\n\n<b>**⍟  File Size  🔻**</b>\n\n**{file_size}**</a></b>\n"
 
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.

@@ -247,6 +247,8 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
     MOVIES_UPDATE_TXT = """<b>#New_File_Added ✅ 
 
 Title - {title} 
+
 Year 📆- {rating}
+
 Genre 🎥- {genres}
 </b>"""

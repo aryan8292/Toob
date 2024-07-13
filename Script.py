@@ -247,7 +247,7 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
 Title - {title} 
 
-Year 📆- {rating}
+Rating ✧ - {rating}
 
-Genre 🎥- {genres}
+Genre 🎥 - {genres}
 </b>"""

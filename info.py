@@ -44,8 +44,8 @@ SHORTENER_API2 = environ.get("SHORTENER_API2", "363302bd475d834760cf6b6870256730
 SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'omegalinks.in')
 SHORTENER_API3 = environ.get("SHORTENER_API3", "a4da5552a4b8078dc8e4a8c333aa549243a87d55")
 SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'nanolinks.in')
-TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "14400"))
-THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "14400"))
+TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "7200"))
+THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "7200"))
 
 LANGUAGES = ["hindi", "english", "telugu", "tamil", "kannada", "malayalam", "bengali", "marathi", "gujarati", "punjabi"]
 QUALITIES = ["HdRip","web-dl" ,"bluray", "hdr", "fhd" , "240p", "360p", "480p", "540p", "720p", "960p", "1080p", "1440p", "2K", "2160p", "4k", "5K", "8K"]
@@ -72,7 +72,7 @@ IMDB_TEMPLATE = environ.get('IMDB_TEMPLATE', f'{script.IMDB_TEMPLATE_TXT}')
 LONG_IMDB_DESCRIPTION = is_enabled('LONG_IMDB_DESCRIPTION', False)
 PROTECT_CONTENT = is_enabled('PROTECT_CONTENT', False)
 SPELL_CHECK = is_enabled('SPELL_CHECK', True)
-LINK_MODE = is_enabled('LINK_MODE', True)
+LINK_MODE = is_enabled('LINK_MODE', False)
 SETTINGS = {
             'spell_check': SPELL_CHECK,
             'auto_filter': AUTO_FILTER,

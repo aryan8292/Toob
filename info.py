@@ -96,5 +96,5 @@ SETTINGS = {
     }
 DEFAULT_POST_MODE = {
     'singel_post_mode' : False,
-    'all_files_post_mode' : False
+    'all_files_post_mode' : True
 }

@@ -244,9 +244,9 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
 #verified_{}_completed"""
 
-    MOVIES_UPDATE_TXT = """<b>
+    MOVIES_UPDATE_TXT = """<b>#New_File_Added
 
-Title📍 - {title} 
+ {title} ✅ 
 
 Year  📅 - {release_date}
 Rating ✦ - {rating}

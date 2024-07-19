@@ -246,7 +246,7 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
     MOVIES_UPDATE_TXT = """<b>#New_File_Added ✅
 
-Title: {𝚝𝚒𝚝𝚕𝚎}  
+Title: {title}  
 
 Rating: {rating}
 

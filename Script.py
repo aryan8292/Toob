@@ -248,7 +248,6 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
  {title} ✅ 
 
-Year  📅 - {release_date}
 Rating ✦ - {rating}
 Genre 🎥 - {genres}
 Audio 🔊 - {languages}

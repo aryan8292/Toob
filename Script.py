@@ -37,13 +37,12 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 
     ABOUT_TEXT = """<b>🎭 Kɪ Hᴀᴀʟ Cʜᴀᴀʟ {},
     
-🤖 ɪ'ᴍ <a href=https://t.me/{}</a> 
-⚙️ ᴄʜɪʟʟɪɴɢ ᴏɴ : <a href="https://www.heroku.com/">ʜᴇʀᴏᴋᴜ</a>
-🍿 ʙʀᴀɪɴ ғᴜᴇʟᴇᴅ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
-🐍 ᴄᴏᴅɪɴɢ ᴍᴜsᴄʟᴇs : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3</a>
-🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : ʜᴍ
-🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.dog/Miss_Rosy_Help_BOT">ʜᴍ</a>
-🧑🏻‍💻 ʀᴇᴘᴏ : <a href="https://telegram.dog/Miss_Rosy_Help_BOT">LINK</a>
+✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: 【 ⚡➣ROSY➣⚡】
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴:  𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴:  𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁:  <a href="https://telegram.dog/Miss_Rosy_Help_BOT">Proffessor</a>
+✯ 𝚁𝙴𝙿𝙾 : <a href="https://telegram.dog/Miss_Rosy_Help_BOT">LINK</a>
 </b>"""
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 

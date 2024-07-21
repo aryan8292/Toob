@@ -41,8 +41,8 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴:  𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴:  𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁:  <a href="https://telegram.dog/Miss_Rosy_Help_BOT">Proffessor</a>
-✯ 𝚁𝙴𝙿𝙾 : <a href="https://telegram.dog/Miss_Rosy_Help_BOT">LINK</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁:  <a href="https://telegram.dog/Miss_Rosy_Help_BOT">【✧ PROFESSOR ✧】</a>
+✯ 𝚁𝙴𝙿𝙾 : <a href="https://telegram.dog/Miss_Rosy_Help_BOT">【✧ LINK ✧】</a>
 </b>"""
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 

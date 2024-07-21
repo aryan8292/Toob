@@ -1290,7 +1290,7 @@ async def auto_filter(client, msg, spoll=False , pm_mode = False):
         if not files:
             if settings["spell_check"]:
                 await delSticker(st)
-                ai_sts = await msg.reply_text('<b>Ai is Cheking For Your Spelling. Please Wait.</b>')
+                ai_sts = await msg.reply_text('<b>⚡ 𝗔𝗰𝘁𝗶𝘃𝗲 𝗦𝘂𝗽𝗲𝗿 𝗦𝗽𝗲𝗹𝗹𝗶𝗻𝗴 𝗖𝗵𝗲𝗰𝗸 ⚡</b>')
                 is_misspelled = await ai_spell_check(search)
                 if is_misspelled:
                     await ai_sts.edit(f'<b>Ai Suggested <code>{is_misspelled}</code>\nSo Im Searching for <code>{is_misspelled}</code></b>')

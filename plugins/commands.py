@@ -148,7 +148,7 @@ async def start(client:Client, message):
                             InlineKeyboardButton('⍟ Gᴇᴛ Pʀᴇᴍɪᴜᴍ Fʀᴇᴇ ⍟', callback_data=f'free_premium#{message.from_user.id}')
                             ],
                             [
-                            InlineKeyboardButton('Yᴏᴜʀ Pᴏɪɴᴛꜱ ✺', callback_data=f'point#{message.from_user.id}'),
+                            InlineKeyboardButton('Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/maam_movies_backup'),
                             InlineKeyboardButton('Aʙᴏᴜᴛ ✇', callback_data='about')
                             ],
                             [
@@ -178,7 +178,7 @@ async def start(client:Client, message):
             InlineKeyboardButton('⍟ Gᴇᴛ Pʀᴇᴍɪᴜᴍ Fʀᴇᴇ ⍟', callback_data=f'free_premium#{message.from_user.id}')
         ],
         [
-            InlineKeyboardButton('Yᴏᴜʀ Pᴏɪɴᴛꜱ ✺', callback_data=f'point#{message.from_user.id}'),
+            InlineKeyboardButton('Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/maam_movies_backup'),
             InlineKeyboardButton('Aʙᴏᴜᴛ ✇', callback_data='about')
         ],
         [
@@ -233,7 +233,7 @@ async def start(client:Client, message):
             InlineKeyboardButton('⍟ Gᴇᴛ Pʀᴇᴍɪᴜᴍ Fʀᴇᴇ ⍟', callback_data=f'free_premium#{message.from_user.id}')
         ],
         [
-            InlineKeyboardButton('Yᴏᴜʀ Pᴏɪɴᴛꜱ ✺', callback_data=f'point#{message.from_user.id}'),
+            InlineKeyboardButton('Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/maam_movies_backup'),
             InlineKeyboardButton('Aʙᴏᴜᴛ ✇', callback_data='about')
         ],
         [

@@ -44,10 +44,6 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁:  <a href="https://telegram.dog/Miss_Rosy_Help_BOT">Proffessor</a>
 ✯ 𝚁𝙴𝙿𝙾 : <a href="https://telegram.dog/Miss_Rosy_Help_BOT">LINK</a>
 </b>"""
-btn = [[
-        InlineKeyboardButton("Rᴇᴘᴏ", url='http://telegram.dog/Miss_Rosy_Help_BOT')
-    ]]
-
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 
 Fᴏᴜɴᴅᴇᴅ {} Rᴇꜱᴜʟᴛꜱ 𝖥𝗈𝗋 𝖸𝗈𝗎𝗋 𝖱𝖾𝗊𝗎𝖾𝗌𝗍 ❤️‍🔥,

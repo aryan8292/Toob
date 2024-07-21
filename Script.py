@@ -114,11 +114,11 @@ User - {}"""
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code></b>"""
 
-    ALRT_TXT = """𝚃𝚎𝚛𝚎 𝙱𝚊𝚊𝚙 𝙺𝚊 𝚕𝚒𝚗𝚔 𝚑𝚊𝚒 𝚔𝚢𝚊 !"""
+    ALRT_TXT = """𝗧𝗲𝗿𝗮 𝗟𝗶𝗻𝗸 𝗡𝗮𝗵𝗶 𝗛𝗮𝗶 𝗬𝗲 !"""
 
     OLD_ALRT_TXT = """ʏᴏᴜ ᴀʀᴇ ᴜsɪɴɢ ᴍʏ ᴏʟᴅ ᴍᴇssᴀɢᴇs..sᴇɴᴅ ᴀ ɴᴇᴡ ʀᴇǫᴜᴇsᴛ.."""
 
-    NO_RESULT_TXT = """⚜ 𝐓𝐡𝐢𝐬 𝐌𝐨𝐯𝐢𝐞 𝐍𝐨𝐭 𝐅𝐨𝐮𝐧𝐝</b>\n\n☟ Rᴇǫᴜᴇꜱᴛ Tᴏ Aᴅᴍɪɴ Fᴏʀ Uᴘʟᴏᴀᴅ ❤️‍🔥</a></b>\n\n**@Miss_Rosy_Help_BOT**"""
+    NO_RESULT_TXT = """⚜ 𝗧𝗵𝗶𝘀 𝗠𝗼𝘃𝗶𝗲 𝗡𝗼𝘁 𝗙𝗼𝘂𝗻𝗱</b>\n\n☟ Rᴇǫᴜᴇꜱᴛ Tᴏ Aᴅᴍɪɴ Fᴏʀ Uᴘʟᴏᴀᴅ ❤️‍🔥</a></b>\n\n**@Miss_Rosy_Help_BOT**"""
     
     I_CUDNT = """🤧 𝗛𝗲𝗹𝗹𝗼 {}
 
@@ -130,7 +130,7 @@ User - {}"""
     
     CUDNT_FND = """🤧 𝗛𝗲𝗹𝗹𝗼 {}
 
-𝐃𝐨 𝐘𝐨𝐮 𝐒𝐞𝐚𝐫𝐜𝐡𝐢𝐧𝐠 🔎 𝐅𝐨𝐫 𝐓𝐡𝐢𝐬👇?"""
+𝗗𝗼 𝗬𝗼𝘂 𝗦𝗲𝗮𝗿𝗰𝗵𝗶𝗻𝗴 🔍 𝗙𝗼𝗿 𝗧𝗵𝗶𝘀👇?"""
     
     FONT_TXT= """<b>ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ᴍᴏᴅᴇ ᴛᴏ ᴄʜᴀɴɢᴇ ʏᴏᴜʀ ꜰᴏɴᴛs sᴛʏʟᴇ, ᴊᴜsᴛ sᴇɴᴅ ᴍᴇ ʟɪᴋᴇ ᴛʜɪs ꜰᴏʀᴍᴀᴛ
 
@@ -180,9 +180,9 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
 <code>/set_shortner sheralinks.com 8887cd1a0ffec265ece2ed8ad0abc7a0b96f0e4b</code>
 
-<code>/set_shortner_2 omnifly.in.net f287e7e9b1a23c34f542f77787d39607cae36a4d</code>
+<code>/set_shortner_2 sheralinks.com 8887cd1a0ffec265ece2ed8ad0abc7a0b96f0e4b</code>
 
-<code>/set_shortner_3 shortslink.in 06b24eb6bbb025713cd522fb3f696b6d5de11354</code>
+<code>/set_shortner_3 sheralinks.com 8887cd1a0ffec265ece2ed8ad0abc7a0b96f0e4b</code>
 
 <code>/set_tutorial https://t.me/howtoopin</code>
 

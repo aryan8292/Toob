@@ -242,9 +242,9 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
 #verified_{}_completed"""
 
-    MOVIES_UPDATE_TXT = """<b>#New_File_Added ✅
+    MOVIES_UPDATE_TXT = """</b>
 
-Title 📍-  {title}  
+  {search} ✅
 
 Rating ⭐- {rating}
 

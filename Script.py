@@ -244,7 +244,7 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
     MOVIES_UPDATE_TXT = """</b>
 
-  {search} ✅
+   {search} ✅
 
 Rating ⭐- {rating}
 

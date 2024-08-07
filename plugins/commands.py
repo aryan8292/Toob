@@ -330,7 +330,7 @@ async def start(client:Client, message):
     btn = [[
         InlineKeyboardButton("✧ Bᴏᴛ Oᴡɴᴇʀ ✧", url='https://telegram.dog/Miss_Rosy_Help_BOT')
     ]]
-    (
+   toDel=await client.send_cached_media(
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,

@@ -244,9 +244,9 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
     MOVIES_UPDATE_TXT = """</b>
 
-Title 📍- {title}
+{title} ✅ 
 
-Rating ⭐- {rating}
-
-Genre 🎥-  {genres}
+**⭐Rating - {rating}**
+**🎥Genre  -  {genres}**
+**Description -  {description}**
 </b>"""

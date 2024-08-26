@@ -243,10 +243,9 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 #verified_{}_completed"""
 
     MOVIES_UPDATE_TXT = """</b>
-
 {title} ✅ 
 
 **⭐Rating - {rating}**
 **🎥Genre  -  {genres}**
-**Description -  {description}**
+**🔊Audio  -  {language}**
 </b>"""

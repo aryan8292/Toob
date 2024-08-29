@@ -117,7 +117,7 @@ User - {}"""
 
     OLD_ALRT_TXT = """ʏᴏᴜ ᴀʀᴇ ᴜsɪɴɢ ᴍʏ ᴏʟᴅ ᴍᴇssᴀɢᴇs..sᴇɴᴅ ᴀ ɴᴇᴡ ʀᴇǫᴜᴇsᴛ.."""
 
-    NO_RESULT_TXT = """⚜ 𝗧𝗵𝗶𝘀 𝗠𝗼𝘃𝗶𝗲 𝗡𝗼𝘁 𝗙𝗼𝘂𝗻𝗱</b>\n\n☟ Rᴇǫᴜᴇꜱᴛ Tᴏ Aᴅᴍɪɴ Fᴏʀ Uᴘʟᴏᴀᴅ ❤️‍🔥</a></b>\n\n**@Miss_Rosy_Help_BOT**"""
+    NO_RESULT_TXT = """⚜ 𝗧𝗵𝗶𝘀 𝗠𝗼𝘃𝗶𝗲 𝗡𝗼𝘁 𝗙𝗼𝘂𝗻𝗱</b>\n\n☟ Rᴇǫᴜᴇꜱᴛ Tᴏ Aᴅᴍɪɴ Fᴏʀ Uᴘʟᴏᴀᴅ ❤️‍🔥</a></b>\n\n**@Im_professor_22**"""
     
     I_CUDNT = """🤧 𝗛𝗲𝗹𝗹𝗼 {}
 

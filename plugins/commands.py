@@ -304,7 +304,7 @@ async def start(client:Client, message):
                 file_caption=file.caption
             )
             btn = [[
-                InlineKeyboardButton("✧ Bᴏᴛ Oᴡɴᴇʀ ✧", url='https://telegram.dog/Miss_Rosy_Help_BOT')
+                InlineKeyboardButton("✧ Bᴏᴛ Oᴡɴᴇʀ ✧", url='https://t.me/Im_professor_22')
             ]]
             toDel = await client.send_cached_media(
                 chat_id=message.from_user.id,
@@ -328,7 +328,7 @@ async def start(client:Client, message):
         file_caption=files.caption
     )
     btn = [[
-        InlineKeyboardButton("✧ Bᴏᴛ Oᴡɴᴇʀ ✧", url='https://telegram.dog/Miss_Rosy_Help_BOT')
+        InlineKeyboardButton("✧ Bᴏᴛ Oᴡɴᴇʀ ✧", url='https://t.me/Im_professor_22')
     ]]
     toDel=await client.send_cached_media(
         chat_id=message.from_user.id,

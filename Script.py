@@ -105,7 +105,7 @@ User - {}"""
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """**⍟ File Name🔻**</b>\n\n{file_name}</a></b>\n\n<b>**⍟  File Size  🔻**</b>\n\n 𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 <a **[ {file_size} ]</a></b>\n\n━━━━━━━━━━━━━━━━━━━ \n 𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 ❤️‍🔥 <a href https://t.me/maam_movies_backup>𝙵𝚒𝚕𝚖𝚢 𝙷𝚞𝚋"""
+    FILE_CAPTION = """**⍟ File Name🔻</b>\n\n{file_name}</a></b>\n\n<b>⍟  File Size  🔻</b>\n\n 𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 <a [ {file_size} ]</a></b>**"""
 
 
     RESTART_TXT = """<b>

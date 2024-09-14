@@ -249,5 +249,5 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
 **🎥Genre  -  {genres}**
 
-**Audio  -   {}**
+**📃Story  -  {description}**
 """

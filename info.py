@@ -39,13 +39,13 @@ LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1001949498981'))
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/howtoopin")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
 SHORTENER_API = environ.get("SHORTENER_API", "9cd7b7ade946cd0870d00d2f05d6c5e933296edf")
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'AdrinoLinks.in')
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'adrinolinks.in')
 SHORTENER_API2 = environ.get("SHORTENER_API2", "9cd7b7ade946cd0870d00d2f05d6c5e933296edf")
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'AdrinoLinks.in')
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'adrinolinks.in')
 SHORTENER_API3 = environ.get("SHORTENER_API3", "9cd7b7ade946cd0870d00d2f05d6c5e933296edf")
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'AdrinoLinks.in')
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'adrinolinks.in')
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "28800"))
-THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "27900"))
+THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "28800"))
 
 LANGUAGES = ["hindi", "english", "telugu", "tamil", "kannada", "malayalam", "bengali", "marathi", "gujarati", "punjabi"]
 QUALITIES = ["HdRip","web-dl" ,"bluray", "hdr", "fhd" , "240p", "360p", "480p", "540p", "720p", "960p", "1080p", "1440p", "2K", "2160p", "4k", "5K", "8K"]

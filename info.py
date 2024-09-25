@@ -45,7 +45,7 @@ SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'AdrinoLinks.in')
 SHORTENER_API3 = environ.get("SHORTENER_API3", "9cd7b7ade946cd0870d00d2f05d6c5e933296edf")
 SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'AdrinoLinks.in')
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "28800"))
-THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "28800"))
+THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "27900"))
 
 LANGUAGES = ["hindi", "english", "telugu", "tamil", "kannada", "malayalam", "bengali", "marathi", "gujarati", "punjabi"]
 QUALITIES = ["HdRip","web-dl" ,"bluray", "hdr", "fhd" , "240p", "360p", "480p", "540p", "720p", "960p", "1080p", "1440p", "2K", "2160p", "4k", "5K", "8K"]

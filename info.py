@@ -40,12 +40,12 @@ TUTORIAL = environ.get("TUTORIAL", "https://t.me/howtoopin")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
 SHORTENER_API = environ.get("SHORTENER_API", "8887cd1a0ffec265ece2ed8ad0abc7a0b96f0e4b")
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'sheralinks.com')
-SHORTENER_API2 = environ.get("SHORTENER_API2", "")
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", '')
-SHORTENER_API3 = environ.get("SHORTENER_API3", "")
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", '')
+SHORTENER_API2 = environ.get("SHORTENER_API2", "8887cd1a0ffec265ece2ed8ad0abc7a0b96f0e4b")
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'sheralinks.com')
+SHORTENER_API3 = environ.get("SHORTENER_API3", "8887cd1a0ffec265ece2ed8ad0abc7a0b96f0e4b")
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'sheralinks.com')
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "72000"))
-THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "7128"))
+THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "72000"))
 
 LANGUAGES = ["hindi", "english", "telugu", "tamil", "kannada", "malayalam", "bengali", "marathi", "gujarati", "punjabi"]
 QUALITIES = ["HdRip","web-dl" ,"bluray", "hdr", "fhd" , "240p", "360p", "480p", "540p", "720p", "960p", "1080p", "1440p", "2K", "2160p", "4k", "5K", "8K"]

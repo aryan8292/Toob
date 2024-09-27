@@ -105,7 +105,7 @@ User - {}"""
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """**⍟ File Name🔻</b>\n\n{file_name}</a></b>\n\n<b>⍟  File Size  🔻</b>\n\n 𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 <a [ {file_size} ]</a></b>**"""
+    FILE_CAPTION = """**⍟ File Name🔻</b>\n\n{file_name}</a></b>\n\n<b>**⍟  File Size\n\n  🔻[ {file_size} ]</a></b>**"""
 
 
     RESTART_TXT = """<b>
